@@ -1,5 +1,5 @@
 body {
-    background-image: url('https://i.imgur.com/cZMqPhO.png');
+    background-image: url('https://i.ytimg.com/vi/8L8Nh67PbO4/maxresdefault.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -21,7 +21,7 @@ body {
     padding: 32px;
 }
 #avatarImg {
-    content: url('https://d1fdloi71mui9q.cloudfront.net/P9yiif60Qdid7fQCZdKN_IJG2ViEtk5Kmap3T');
+    content: url('https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg');
     display: block;
     margin: auto;
     width: 100px;
