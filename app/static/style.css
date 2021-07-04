@@ -50,6 +50,7 @@ hr {
 .mainButton {
     display: inline-block;
     width: 37.5%;
+    height: auto;
     font-size: 12px;
     text-align: center;
     vertical-align: middle;
