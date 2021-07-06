@@ -75,3 +75,8 @@ hr {
 .mainButton:active {
     background-color: transparent;
 }
+.yearDiv {
+    display: inline-block;
+    text-align: center;
+    color: white;
+}
